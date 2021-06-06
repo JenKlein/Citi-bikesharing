@@ -2,6 +2,8 @@
 ## Overview
 An analysis of New York City's bikeshare company, Citibike, was performed with the idea of bringing a similar bikeshare program to Demoins Island. Specifically, this analysis looks at the gender breakdown, trip duration, and weekly usage of Citibike's customers. 
 
+[link to dashboard](https://public.tableau.com/app/profile/jennifer.klein6089/viz/citi-bikesharingNU/Story1)
+
 ## Resources
 * Python / Pandas
 * Tableau
@@ -37,5 +39,5 @@ This dashboard is an amalgamation of the gender vizulations noted above.
 
 ## Summary
 
-Males make up the highest proportion of citibike subscribers, so it is unsurprising that they use the bikes the most overall and during peak hours. Interestingly though, females have higher average trip duration. It would be helpful to calculate the percentage of genders 
-Suggestion for two additional vizualtions
+Males make up the highest proportion of citibike subscribers, so it is unsurprising that they use the bikes the most overall and during peak hours. Interestingly though, females have higher average trip duration. It would be interesting to create a vizualization with both the start stations and end stations to determine which stations are the highest use. As well, the birth year could be plotted with the bikeid and the genders could be colour markers - this would give a better idea of the target demographic Demoins Island can target. As well, the genders could be plotted in to box plots to determine the outliers and consider those that may be skewing the data. 
+
